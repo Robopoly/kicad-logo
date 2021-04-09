@@ -1,1 +1,1 @@
-Thsi repo contains a kicad footprint library containing robopoly logo in various size.
+This repo contains a kicad footprint library containing robopoly logo in various size.
